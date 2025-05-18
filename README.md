@@ -2,6 +2,10 @@
 
 ## Registrador de ideias simples feito em python ##
 
-# Tecnologias: #
+### Tecnologias e Bibliotecas Utilizadas
 
-- 
+- Python 3
+- Tkinter
+- speech_recognition
+- PyAudio
+- threading
