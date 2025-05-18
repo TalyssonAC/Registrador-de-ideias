@@ -1,6 +1,6 @@
 # **Registrador de Ideas** #
 
-## Registrador de ideias simples feito em python ##
+## Registrador de ideias simples feito em python durante as aulas de ciência da computação na ATITUS ##
 
 ### Tecnologias e Bibliotecas Utilizadas
 
